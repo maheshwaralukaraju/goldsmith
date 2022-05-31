@@ -2,3 +2,5 @@ Hello everyone this is my first code
 hope to get no error
 
 got errors try next time
+
+errors got removed
